@@ -1,0 +1,8 @@
+{
+  "name": "DOTAREVEW",
+  "description": "Análise profissional e gratuita de partidas de Dota 2 com Inteligência Artificial Gemini e mapeamento de replays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
